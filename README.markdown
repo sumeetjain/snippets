@@ -5,3 +5,9 @@ These are bits of code that I use and reuse often. They speed up development and
 2. Download this repository. Cloning it probably won't help much - just download the source.
 3. Navigate the topic areas in your downloaded folder to find a snippet you think might improve your workflow.
 4. Double-click to install each snippet you have a crush on. You're done.
+
+## Documentation
+Here's a quick rundown of what each snippet does:
+
+### CSS
+- reset - Type `reset` and hit TAB to insert some CSS reset styles (my own blend - kind of a mix of YUI and Eric Meyer's)
