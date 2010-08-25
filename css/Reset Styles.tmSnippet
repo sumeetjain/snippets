@@ -32,7 +32,7 @@ table {
     visibility: hidden;
 }</string>
 	<key>name</key>
-	<string>reset</string>
+	<string>Reset Styles</string>
 	<key>tabTrigger</key>
 	<string>reset</string>
 	<key>uuid</key>
