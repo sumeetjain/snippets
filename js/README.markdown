@@ -10,4 +10,4 @@ These are bits of code that I use and reuse often. They speed up development and
 Here's a quick rundown of what each snippet does:
 
 # Javascript
-- jQuery Scope - Type `q` and his TAB to insert an anonymous function that's automatically bound to $(document).ready(). I put all of my jQuery goodness inside of this.
+- jQuery Scope - Type `q` and hit TAB to insert an anonymous function that's automatically bound to $(document).ready(). I put all of my jQuery goodness inside of this.

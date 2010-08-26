@@ -13,7 +13,7 @@ Here's a quick rundown of what each snippet does:
 - Reset Styles - Type `reset` and hit TAB to insert some CSS reset styles (my own blend - kind of a mix of YUI and Eric Meyer's)
 
 ### Javascript
-- jQuery Scope - Type `q` and his TAB to insert an anonymous function that's automatically bound to $(document).ready(). I put all of my jQuery goodness inside of this.
+- jQuery Scope - Type `q` and hit TAB to insert an anonymous function that's automatically bound to $(document).ready(). I put all of my jQuery goodness inside of this.
 
 ### Markdown
 - Add Footnote - Type `^` and hit TAB to insert a reference and footnote. After hitting TAB, you type the number of the reference. This is one of my favorites.
