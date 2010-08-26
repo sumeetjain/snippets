@@ -12,4 +12,4 @@ Here's a quick rundown of what each snippet does:
 ### Markdown
 - Add Footnote - Type `^` and hit TAB to insert a reference and footnote. After hitting TAB, you type the number of the reference. This is one of my favorites.
 - Insert Image - Type `img` and hit TAB to insert an image.
-- Insert Image - Type `a` and hit TAB to insert a link.
+- Insert Link - Type `a` and hit TAB to insert a link.
