@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>D99E8C0C-792F-11D9-A212-000D93B3A10E</string>
+	<key>content</key>
+	<string>![${1:Alt Text}](${2:Image Location})</string>
+	<key>name</key>
+	<string>Insert Image</string>
+	<key>tabTrigger</key>
+	<string>img</string>
+	<key>uuid</key>
+	<string>419AED55-E917-4C50-B99E-31E4004294CC</string>
+</dict>
+</plist>

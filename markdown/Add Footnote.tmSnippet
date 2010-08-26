@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>D99E8C0C-792F-11D9-A212-000D93B3A10E</string>
+	<key>content</key>
+	<string>[^${1:#}]
+
+[^$1]: ${2:Footnote goes here}</string>
+	<key>name</key>
+	<string>Add Footnote</string>
+	<key>tabTrigger</key>
+	<string>^</string>
+	<key>uuid</key>
+	<string>BF70E2B4-7B6F-4A41-8237-798D0E5D5687</string>
+</dict>
+</plist>
