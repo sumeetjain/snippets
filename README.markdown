@@ -9,6 +9,8 @@ These are bits of code that I use and reuse often. They speed up development and
 ## Documentation
 Here's a quick rundown of what each snippet does:
 
+- Refresh Running Browser(s) - Hit `CMD` + R to refresh running browsers. This is part of the HTML bundle that comes with TextMate, but it doesn't work properly if you use the Webkit Nightly instead of Safari. My version fixes that.
+
 ### CSS
 - Reset Styles - Type `reset` and hit TAB to insert some CSS reset styles (my own blend - kind of a mix of YUI and Eric Meyer's)
 
