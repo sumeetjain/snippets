@@ -15,6 +15,9 @@ Here's a quick rundown of what each snippet does:
 ### Javascript
 - jQuery Scope - Type `q` and hit TAB to insert an anonymous function that's automatically bound to $(document).ready(). I put all of my jQuery goodness inside of this.
 - jQuery Selector - Type `$` and hit TAB to insert a blank jQuery selector. The cursor focus moves into the quotes. Example: `$` + `TAB` + `#someId` results in `$('#someId')`.
+- jQuery Plugin - Type `jp` and hit TAB to insert a jQuery plugin template. *(Credit: [kneath](http://github.com/kneath/textmate-snippets)*
+
+kneath)
 
 ### Markdown
 - Add Footnote - Type `^` and hit TAB to insert a reference and footnote. After hitting TAB, you type the number of the reference. This is one of my favorites.
