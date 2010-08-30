@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>AAB4FD74-73F9-11D9-B89A-000D93589AF6</string>
+	<key>content</key>
+	<string>console.log('$0');</string>
+	<key>name</key>
+	<string>Write to Console</string>
+	<key>tabTrigger</key>
+	<string>c</string>
+	<key>uuid</key>
+	<string>3AB4262C-F8DE-4248-8F1E-34AD67516064</string>
+</dict>
+</plist>
